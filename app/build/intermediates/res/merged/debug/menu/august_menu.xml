@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="@string/settings"
+        android:id="@+id/august_settings_menu"
+        app:showAsAction="never"
+        android:orderInCategory="100" />
+
+    <item
+        android:title="@string/task_scheduler"
+        android:id="@+id/august_task_scheduler_menu"
+        app:showAsAction="never"
+        android:orderInCategory="101" />
+</menu>

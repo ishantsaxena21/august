@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ishant/ud851-Exercises/Lesson06-Visualizer-Preferences/MyApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/ishant/ud851-Exercises/Lesson06-Visualizer-Preferences/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ca03d2ebd54583176816948b4b104126d0e00609/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ishant/.android/build-cache/8330a77a68f7303ab2e9014485d2ace017644dd8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/ishant/NetBeansProjects/JarvisAndroidApp/MyApplication/app/build/intermediates/pre-dexed/debug/classes_80be3b07c7b80161a8f0d0017f297621a39e1913.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ishant/ud851-Exercises/Lesson06-Visualizer-Preferences/MyApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c786d783539cbed3615be89d45daae0ec9401a27">
+        <dex dex="/home/ishant/ud851-Exercises/Lesson06-Visualizer-Preferences/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b826f536e92acf549b1d1bd556ee69c20c260aa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ishant/.android/build-cache/0f6bf0b6a893f236565748200530deba807e8f48/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="536228b2496030d983d01856aa56b4d71b57d0db">
+        <dex dex="/home/ishant/NetBeansProjects/JarvisAndroidApp/MyApplication/app/build/intermediates/pre-dexed/debug/classes_0a0058ea3ad2c077343defc2ab456115ddad2c15.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/ishant/NetBeansProjects/JarvisAndroidApp/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/ishant/.android/build-cache/644c2a2d55232707fbe11009ee6c01aac5192990/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/ishant/ud851-Exercises/Lesson06-Visualizer-Preferences/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/ishant/.android/build-cache/644c2a2d55232707fbe11009ee6c01aac5192990/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/ishant/ud851-Exercises/Lesson06-Visualizer-Preferences/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/ishant/.android/build-cache/644c2a2d55232707fbe11009ee6c01aac5192990/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/ishant/ud851-Exercises/Lesson06-Visualizer-Preferences/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/ishant/.android/build-cache/644c2a2d55232707fbe11009ee6c01aac5192990/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/ishant/NetBeansProjects/JarvisAndroidApp/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/preference.xml",
+        "source": "/home/ishant/.android/build-cache/0f6bf0b6a893f236565748200530deba807e8f48/output/res/layout-v11/preference.xml"
+    },
+    {
+        "merged": "/home/ishant/ud851-Exercises/Lesson06-Visualizer-Preferences/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/ishant/.android/build-cache/644c2a2d55232707fbe11009ee6c01aac5192990/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/ishant/NetBeansProjects/JarvisAndroidApp/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/ishant/.android/build-cache/644c2a2d55232707fbe11009ee6c01aac5192990/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/ishant/NetBeansProjects/JarvisAndroidApp/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/ishant/.android/build-cache/644c2a2d55232707fbe11009ee6c01aac5192990/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/ishant/NetBeansProjects/JarvisAndroidApp/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/ishant/.android/build-cache/644c2a2d55232707fbe11009ee6c01aac5192990/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/ishant/NetBeansProjects/JarvisAndroidApp/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/ishant/.android/build-cache/644c2a2d55232707fbe11009ee6c01aac5192990/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/ishant/ud851-Exercises/Lesson06-Visualizer-Preferences/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/ishant/.android/build-cache/644c2a2d55232707fbe11009ee6c01aac5192990/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/ishant/NetBeansProjects/JarvisAndroidApp/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/ishant/.android/build-cache/644c2a2d55232707fbe11009ee6c01aac5192990/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/ishant/ud851-Exercises/Lesson06-Visualizer-Preferences/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/ishant/.android/build-cache/644c2a2d55232707fbe11009ee6c01aac5192990/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/ishant/NetBeansProjects/JarvisAndroidApp/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/preference_dropdown.xml",
+        "source": "/home/ishant/.android/build-cache/0f6bf0b6a893f236565748200530deba807e8f48/output/res/layout-v11/preference_dropdown.xml"
+    }
+]

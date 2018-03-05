@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:id="@+id/server_address"
+        android:defaultValue="@string/august_settings_pref_default_ip_address"
+        android:key="@string/august_settings_pref_key"
+        android:title="@string/august_settings_pref_title" >
+    </EditTextPreference>
+</PreferenceScreen>

@@ -1,0 +1,4 @@
+#Sun Jan 07 22:08:57 IST 2018
+base.0=/home/ishant/NetBeansProjects/JarvisAndroidApp/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/home/ishant/NetBeansProjects/JarvisAndroidApp/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

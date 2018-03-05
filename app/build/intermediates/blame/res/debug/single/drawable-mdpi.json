@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ishant/NetBeansProjects/JarvisAndroidApp/MyApplication/app/build/intermediates/res/merged/debug/drawable-mdpi/notification_jarvis.png",
+        "source": "/home/ishant/NetBeansProjects/JarvisAndroidApp/MyApplication/app/src/main/res/drawable-mdpi/notification_jarvis.png"
+    },
+    {
+        "merged": "/home/ishant/ud851-Exercises/Lesson06-Visualizer-Preferences/MyApplication/app/build/intermediates/res/merged/debug/drawable-mdpi/notification_jarvis.png",
+        "source": "/home/ishant/ud851-Exercises/Lesson06-Visualizer-Preferences/MyApplication/app/src/main/res/drawable-mdpi/notification_jarvis.png"
+    }
+]

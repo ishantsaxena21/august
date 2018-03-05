@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/ishant/ud851-Exercises/Lesson06-Visualizer-Preferences/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/ishant/.android/build-cache/644c2a2d55232707fbe11009ee6c01aac5192990/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/ishant/ud851-Exercises/Lesson06-Visualizer-Preferences/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/ishant/.android/build-cache/644c2a2d55232707fbe11009ee6c01aac5192990/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/ishant/NetBeansProjects/JarvisAndroidApp/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/ishant/.android/build-cache/644c2a2d55232707fbe11009ee6c01aac5192990/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/ishant/ud851-Exercises/Lesson06-Visualizer-Preferences/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/ishant/.android/build-cache/644c2a2d55232707fbe11009ee6c01aac5192990/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/ishant/NetBeansProjects/JarvisAndroidApp/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/ishant/.android/build-cache/644c2a2d55232707fbe11009ee6c01aac5192990/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/ishant/ud851-Exercises/Lesson06-Visualizer-Preferences/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/ishant/.android/build-cache/644c2a2d55232707fbe11009ee6c01aac5192990/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/ishant/NetBeansProjects/JarvisAndroidApp/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/ishant/.android/build-cache/644c2a2d55232707fbe11009ee6c01aac5192990/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/ishant/NetBeansProjects/JarvisAndroidApp/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/ishant/.android/build-cache/644c2a2d55232707fbe11009ee6c01aac5192990/output/res/layout-v21/notification_action.xml"
+    }
+]
